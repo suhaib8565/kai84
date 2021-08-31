@@ -1,15 +1,16 @@
 ## Simple Bot with queue work 
 Only for single users [u can modify it for many users but queue wont work ]
 
-##Ffmpeg compiled with libfdk_aac 
+## ffmpeg compiled with libfdk_aac 
+
 This repo can be deployed on heroku by connecting github to heroku and cloning or fork this repo 
 This repo is compiled with libfdk_aac, and thanks to me and my friend  to do this 
 If u want to compile libfdk_aac in ur repo just copy paste my dockerfile there 
 [Note: This repo needs atleast 25 mins to build and 5 to 7 mins to deploy ]
 ## Deploy on Railway 
-Railway.app 👈
+Railway.app 👈\n
 1)
-I suggest u to clone this repo 
+I suggest u to clone this repo\n
 2)
 Then go to railway.app
 3)
