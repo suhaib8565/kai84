@@ -10,17 +10,13 @@ If u want to compile libfdk_aac in ur repo just copy paste my dockerfile there
 ## Deploy on Railway 
 Railway.app 👈
 
-1)
-I suggest u to clone Or Just Fork this repo
+1)I suggest u to clone Or Just Fork this repo
 
-2)
-Then go to <a href="railway.app" target="_blank">Railways</a>
+2)Then go to <a href="railway.app" target="_blank">Railways</a>
 
-3)
-Then make fake cc (If Don't Know Ask ,a href="https://telegram.dog/Kai_8_4">@Kai_8_4</a> and buy developer pack (as starter pack isnt copacetic for encoding)
+3)Then make fake cc (If Don't Know Ask ,<a href="https://telegram.dog/Kai_8_4">@Kai_8_4</a> and buy developer pack (as starter pack isnt copacetic for encoding)
 
-4)
-Then click variable and add 
+4)Then click variable and add this
 `APP_ID` `API_HASH` `BOT_TOKEN`
 
 `OWNER` : Put Id Of Auth Users with a space between it
