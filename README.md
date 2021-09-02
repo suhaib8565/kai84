@@ -14,4 +14,4 @@ And thanks to Danish for such  fantastic codes and repo
 I have fixed his repo and modified it the next level 
 
 Join us at telegram 
-[![Telegram Channel](https://t.me/Animes_Encoded)]
+t.me/Animes_Encoded 
