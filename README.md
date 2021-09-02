@@ -28,6 +28,10 @@ Then click variable and add
 Add your ffmpeg code in this way -- ffmpeg -i '''{}''' `your code` '''{}''' -y 
 6) Then click deployments and enjoy !
 
+## Deploy To Heroku Easily
+
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 ## Original repo 
 I modified the compresor queue repo built by danish 
 I just know ffmpeg and python a bit 
