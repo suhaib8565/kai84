@@ -8,7 +8,8 @@ This repo is compiled with libfdk_aac, and thanks to me and my friend  to do thi
 If u want to compile libfdk_aac in ur repo just copy paste my dockerfile there 
 [Note: This repo needs atleast 25 mins to build and 5 to 7 mins to deploy ]
 ## Deploy on Railway 
-Railway.app 👈\n
+Railway.app 👈
+
 1)
 I suggest u to clone this repo\n
 2)
@@ -23,7 +24,7 @@ Then click variable and add
 
 `THUMBNAIL` : Put telegraph link of a picture for use of Thumbnail.
 
-`FFMPEG` : Put your best ffmpeg code , U can ask code at t.me/Anime_Hub_Group
+`FFMPEG` : Put your best ffmpeg code , U can ask code at <a href="https:/t.me/Anime_Hub_Group"><img scr="https://img.shields.io/badge/Ask-Group-brightgreen?style=flat-square&logo=telegram" width="30"></a>
 5)
 Add your ffmpeg code in this way -- ffmpeg -i '''{}''' `your code` '''{}''' -y 
 6) Then click deployments and enjoy !
@@ -33,8 +34,11 @@ Add your ffmpeg code in this way -- ffmpeg -i '''{}''' `your code` '''{}''' -y
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Original repo 
-I modified the compresor queue repo built by danish 
-I just know ffmpeg and python a bit 
+I Modified The Compresor Queue Repo built by Danish Ser
+I Just Know Ffmpeg and Python A Bit 
 I fixed the queue work and made the dealing of bot with users a bit fantastic 
 
 Thanks 
+  
+  ## Future Work
+  To Add Thumbnail Directly in Telegram To Use That Thumbnail
